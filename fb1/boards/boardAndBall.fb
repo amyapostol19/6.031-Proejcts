@@ -1,0 +1,5 @@
+board name=New gravity=15.0 friction1=1.0 friction2=1.0
+
+
+# define some balls
+ball name=BallA x=10.25 y=15.25 xVelocity=0 yVelocity=0

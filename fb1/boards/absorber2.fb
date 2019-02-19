@@ -1,0 +1,15 @@
+board name=Absorber gravity = 2.0
+
+# define some balls
+ball name=BallA x=10.25 y=15.25 xVelocity=0 yVelocity=0
+ball name=BallB x=19.25 y=3.25 xVelocity=0 yVelocity=0
+
+
+#
+# define two absorbers that catch the balls
+# and shoot them up again when triggered
+absorber name=Abs1 x=0 y=18 width=20 height=2
+
+
+# absorber2 triggers itself
+fire trigger=Abs1 action=Abs1

@@ -1,0 +1,4 @@
+board name=two gravity = 5.0 friction1=0.0 friction2=0.0
+
+squareBumper name=square x=3 y=5
+portal name=portalB x=10 y = 19 otherBoard=three otherPortal=portalC

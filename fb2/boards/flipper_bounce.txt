@@ -1,0 +1,17 @@
+board name=Default gravity = 25.0 friction1= 0.0 friction2=0.0
+
+# define a ball
+ball name=BallA x=5.5 y=5.25 xVelocity=0 yVelocity=0
+ball name=BallB x=6 y=5.25 xVelocity=0 yVelocity=0
+ball name=BallC x=6.5 y=5.25 xVelocity=0 yVelocity=0
+
+
+leftFlipper name=Flippy x=5 y=10
+keydown key=left action=Flippy
+leftFlipper name=Flipps x=7 y=10
+keydown key=left action=Flipps
+leftFlipper name=Flippo x=9 y=10
+keydown key=left action=Flippo
+
+portal name=P x=10 y=19 otherPortal=Q
+portal name=Q x=15 y=19 otherPortal=P

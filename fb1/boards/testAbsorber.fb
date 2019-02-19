@@ -1,0 +1,2 @@
+board name=TestAbsorber gravity=17 friction2=6
+absorber name=rob x=0 y=0 width=20 height=20

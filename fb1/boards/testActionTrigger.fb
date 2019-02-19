@@ -1,0 +1,7 @@
+board name=TestActionTrigger friction1=.001 friction2=.37
+
+absorber name=rob x=0 y=19 width=20 height=1
+
+circleBumper name=circle x=3 y=7
+
+fire trigger=circle action=rob

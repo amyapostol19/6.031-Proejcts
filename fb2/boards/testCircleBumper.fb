@@ -1,0 +1,2 @@
+board name=TestCircleBumper friction1=0.03
+circleBumper name=circle x=1 y=1

@@ -1,0 +1,4 @@
+board name=left gravity = 0.1 friction1=0.0 friction2=0.0
+
+# define a ball
+ball name=BallA x=5.0 y=5.0 xVelocity=10.0 yVelocity=5.0

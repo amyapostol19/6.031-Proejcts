@@ -1,0 +1,2 @@
+board name=TestTriangleWithoutOrientation gravity=17 friction1=.001
+triangleBumper name=triangle x=19 y=6

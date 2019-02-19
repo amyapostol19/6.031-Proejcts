@@ -1,0 +1,13 @@
+
+
+
+board name=TestBall
+
+# this is a comment
+     # this also is a comment
+
+      ball name=flingball_0123 x=0.25 y=0.25 xVelocity=0 yVelocity=0
+
+
+
+

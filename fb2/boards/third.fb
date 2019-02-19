@@ -1,0 +1,2 @@
+board name=third gravity=5 friction1=0.0 friction2=0.0                      
+squareBumper name=square x=3 y=5

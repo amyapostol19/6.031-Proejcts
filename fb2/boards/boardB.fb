@@ -1,0 +1,5 @@
+board name=boardB gravity = 25.0
+
+# define a ball
+
+portal name=portalB x=10 y = 19 otherBoard=boardA otherPortal=portalC

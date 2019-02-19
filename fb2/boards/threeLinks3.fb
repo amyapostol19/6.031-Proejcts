@@ -1,0 +1,4 @@
+board name=three gravity = 5.0 friction1=0.0 friction2=0.0
+
+circleBumper name=circle x=1 y=1
+portal name=portalC x=10 y = 19 otherBoard=one otherPortal=portalA

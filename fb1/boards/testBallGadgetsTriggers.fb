@@ -1,0 +1,9 @@
+board name=TestBallGadgetTriggers gravity=17 friction2=6
+ball name=flingball_0123 x=1 y=1 xVelocity=25.0 yVelocity=0
+squareBumper name=square x=3 y=5
+circleBumper name=circle x=3 y=7
+triangleBumper name=triangle x=5 y=5
+absorber name=rob x=0 y=19 width=20 height=1
+fire trigger=square action=rob
+fire trigger=circle action=rob
+fire trigger=rob action=rob

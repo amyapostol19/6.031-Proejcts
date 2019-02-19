@@ -1,0 +1,3 @@
+board name=right gravity = 10.0 friction1=0.0 friction2=0.0
+
+ball name=BallB x=5.0 y=5.0 xVelocity=10.0 yVelocity=5.0
